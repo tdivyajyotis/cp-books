@@ -17,12 +17,14 @@
 - [C++ A Beginner's Guide, Herbert Schildt](https://github.com/tdivyajyotis/cp-books/raw/master/cpp-beginners-schildt.pdf)
 - [A Complete Guide to Programming in C++, Ulla Kirch-Prinz, Peter Prinz](https://github.com/tdivyajyotis/cp-books/raw/master/cpp-ulla-prinz-peter-prinz.pdf)
 
-### [UFDS Training](https://training.ufds.cc)
+## UFDS Mentoring
+- [UFDS Mentoring](https://ufds.cc)
+- [UFDS Training](https://training.ufds.cc)
 
 ## IARCS
-### [IARCS Indian Computing Olympiad](https://www.iarcs.org.in/inoi/)
-### [IARCS Online Study Material](https://www.iarcs.org.in/inoi/online-study-material/)
+- [IARCS Indian Computing Olympiad](https://www.iarcs.org.in/inoi/)
+- [IARCS Online Study Material](https://www.iarcs.org.in/inoi/online-study-material/)
 
 ## CP Problems
-### [Codechef](https://www.codechef.com/users/tdivyajyotis)
-### [Codeforces](https://codeforces.com/profile/webcaf)
+- [Codechef](https://www.codechef.com/users/tdivyajyotis)
+- [Codeforces](https://codeforces.com/profile/webcaf)
