@@ -19,10 +19,10 @@
 
 ### [UFDS Training](https://training.ufds.cc)
 
-##
-### [IARCS Online Study Material](https://www.iarcs.org.in/inoi/online-study-material/)
+## IARCS
 ### [IARCS Indian Computing Olympiad](https://www.iarcs.org.in/inoi/)
+### [IARCS Online Study Material](https://www.iarcs.org.in/inoi/online-study-material/)
 
-##
+## CP Problems
 ### [Codechef](https://www.codechef.com/users/tdivyajyotis)
 ### [Codeforces](https://codeforces.com/profile/webcaf)
