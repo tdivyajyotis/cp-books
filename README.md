@@ -1,10 +1,9 @@
 # [cp-books](https://tdivyajyotis.github.io/cp-books)
 
 ## Algorithms
-
 - [Algorithm Design, by Jon Kleinberg and Evá Tardos](https://github.com/tdivyajyotis/cp-books/raw/master/alg-design-eva-tardos-jon-kleinberg.pdf)
-- [Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein](https://github.com/tdivyajyotis/cp-books/raw/master/algo-dasgupta-papadimitriou-vazirani.pdf)
-- [Algorithms, by S. Dasgupta, C.H. Papadimitriou, and U.V. Vazirani](https://github.com/tdivyajyotis/cp-books/raw/master/algo-think-zingaro.pdf)
+- [Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein](https://github.com/tdivyajyotis/cp-books/raw/master/intro-to-algo-clrs.pdf)
+- [Algorithms, by S. Dasgupta, C.H. Papadimitriou, and U.V. Vazirani](https://github.com/tdivyajyotis/cp-books/raw/master/algo-dasgupta-papadimitriou-vazirani.pdf)
 
 ## Competitive Programming
 - [Programming Challenges: The Programming Contest Training Manual, by Steven Skiena and Miguel A. Revilla](https://github.com/tdivyajyotis/cp-books/raw/master/prog-chall-skiena-revilla.pdf)
@@ -20,8 +19,10 @@
 
 ### [UFDS Training](https://training.ufds.cc)
 
+##
 ### [IARCS Online Study Material](https://www.iarcs.org.in/inoi/online-study-material/)
 ### [IARCS Indian Computing Olympiad](https://www.iarcs.org.in/inoi/)
 
+##
 ### [Codechef](https://www.codechef.com/users/tdivyajyotis)
 ### [Codeforces](https://codeforces.com/profile/webcaf)
