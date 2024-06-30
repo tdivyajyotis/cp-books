@@ -4,6 +4,7 @@
 - [Algorithm Design, by Jon Kleinberg and Evá Tardos](https://github.com/tdivyajyotis/cp-books/raw/master/alg-design-eva-tardos-jon-kleinberg.pdf)
 - [Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein](https://github.com/tdivyajyotis/cp-books/raw/master/intro-to-algo-clrs.pdf)
 - [Algorithms, by S. Dasgupta, C.H. Papadimitriou, and U.V. Vazirani](https://github.com/tdivyajyotis/cp-books/raw/master/algo-dasgupta-papadimitriou-vazirani.pdf)
+- [The Algorithm Design Manual, by Steven S. Skiena](https://github.com/tdivyajyotis/cp-books/raw/master/alg-design-manual-skiena.pdf)
 
 ## Competitive Programming
 - [Programming Challenges: The Programming Contest Training Manual, by Steven Skiena and Miguel A. Revilla](https://github.com/tdivyajyotis/cp-books/raw/master/prog-chall-skiena-revilla.pdf)
